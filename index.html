@@ -6,11 +6,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Playground</title>
     <link rel="stylesheet" href="app/scss/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#one').click(() => {
+                alert(`text ${$('input').attr('id')}`)
+            })
+        })
+    </script>
 </head>
 
 <body>
+    <div id="one">One!</div>
+    <div id="two">
+        <div>Two!</div>
+    </div>
+    <input id="input" type="text">
 
-    <script src="app/js/script.js"></script>
+    <script src=" app/js/script.js">
+    </script>
 </body>
 
 </html>
