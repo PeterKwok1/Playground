@@ -7,24 +7,25 @@
     <title>Playground</title>
     <link rel="stylesheet" href="app/scss/style.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
-    <script>
-        $(document).ready(function () {
-            $('#one').click(() => {
-                alert(`text ${$('input').attr('id')}`)
-            })
-        })
-    </script>
+    <script src="app/js/script.js"></script>
 </head>
 
 <body>
-    <div id="one">One!</div>
-    <div id="two">
-        <div>Two!</div>
+    <div class="great-grandparent">Great-Grandparent
+        <div class="grandparent">Grandparent
+            <div class="parent">
+                Parent
+                <div class="child">Child</div>
+            </div>
+            <div class="sibling one">Sibling1</div>
+            <div class="sibling two">Sibling2</div>
+            <div class="sibling three">Sibling3</div>
+        </div>
     </div>
-    <input id="input" type="text">
-
-    <script src=" app/js/script.js">
-    </script>
+    <div id="one">One</div>
+    <div id="two">Two</div>
+    <div id="three">Three</div>
+    <div id="four">Four</div>
 </body>
 
 </html>
