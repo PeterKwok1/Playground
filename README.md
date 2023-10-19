@@ -1,5 +1,6 @@
 # FreeCodeCamp
-    Data Visualization - 1: 2
+    Data Visualization - 1: 12
+        https://www.youtube.com/watch?v=xkBheRZTkaw
 # Git 
     https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting - Done
 # jQuery 
