@@ -1,10 +1,6 @@
-# FreeCodeCamp
-    Data Visualization - 2: 7
-        https://www.youtube.com/watch?v=xkBheRZTkaw
 # Git 
     https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting - Done
 # jQuery 
-    freecodecamp - Done 
     w3schools - Done 
 # React
     Setup
@@ -14,13 +10,17 @@
         https://dev.to/deepanjangh/setting-up-css-and-sass-with-webpack-3cg
     https://www.youtube.com/watch?v=bMknfKXIFA8 
     https://www.youtube.com/playlist?list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC 
-# Babel
-    https://www.youtube.com/watch?v=o9hmjdmJLMU
 # Redux
     https://www.youtube.com/watch?v=2-crBg6wpp0  
     etc. youtube freecodecamp redux
+# Babel
+    https://www.youtube.com/watch?v=o9hmjdmJLMU
+# Scss
+    https://sass-lang.com/guide/
 # Bootstrap
     w3schools - 
+# Freecodecamp Relational Databases
+    Docker setup 
 # Topics of Interest
     Typescript
         I heard Colt Steele's courses are excellent.
