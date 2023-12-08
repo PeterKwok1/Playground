@@ -20,7 +20,7 @@
 # Bootstrap
     w3schools - 
 # Freecodecamp Relational Databases
-    Docker setup 
+    Docker setup - Done
 # Topics of Interest
     Typescript
         I heard Colt Steele's courses are excellent.
