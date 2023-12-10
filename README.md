@@ -21,7 +21,8 @@
     w3schools - 
 # Freecodecamp Relational Databases
     Docker setup - Done
-    Learn Bash by Building a Boilerplate - Make a new directory named assets in the client folder.
+    Learn Bash by Building a Boilerplate - Done
+    Learn Relational Databases by Building a Mario Database - 
 # Topics of Interest
     Typescript
         I heard Colt Steele's courses are excellent.
