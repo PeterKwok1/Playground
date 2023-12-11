@@ -22,7 +22,7 @@
 # Freecodecamp Relational Databases
     Docker setup - Done
     Learn Bash by Building a Boilerplate - Done
-    Learn Relational Databases by Building a Mario Database - 
+    Learn Relational Databases by Building a Mario Database - It's gone. Use the ALTER TABLE and DROP COLUMN keywords again to drop first_column.
 # Topics of Interest
     Typescript
         I heard Colt Steele's courses are excellent.
