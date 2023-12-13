@@ -22,7 +22,7 @@
 # Freecodecamp Relational Databases
     Docker setup - Done
     Learn Bash by Building a Boilerplate - Done
-    Learn Relational Databases by Building a Mario Database - Use SELECT again to see all the rows in second_table to make sure they're gone.
+    Learn Relational Databases by Building a Mario Database - If you don't get a message after a command, it is likely incomplete. This is because you can put a command on multiple lines. Add two more rows. Give the first one the values: Daisy, Sarasaland, and Yellow. The second: Yoshi, Dinosaur Land, and Green. Try to do it with one command.
 # Topics of Interest
     Typescript
         I heard Colt Steele's courses are excellent.
