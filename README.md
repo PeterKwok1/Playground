@@ -22,7 +22,7 @@
 # Freecodecamp Relational Databases
     Docker setup - Done
     Learn Bash by Building a Boilerplate - Done
-    Learn Relational Databases by Building a Mario Database - That's better. The table looks complete for now. Next, create a new table named more_info for some extra info about the characters.
+    Learn Relational Databases by Building a Mario Database - Next, you will make a sounds table that holds filenames of sounds the characters make. You created your other tables similar to this:
 # Topics of Interest
     Typescript
         I heard Colt Steele's courses are excellent.
