@@ -22,7 +22,7 @@
 # Freecodecamp Relational Databases
     Docker setup - Done
     Learn Bash by Building a Boilerplate - Done
-    Learn Relational Databases by Building a Mario Database - Next, you will make a sounds table that holds filenames of sounds the characters make. You created your other tables similar to this:
+    Learn Relational Databases by Building a Mario Database - Insert three rows into character_actions for all the actions Yoshi can perform. He can perform all of them in the actions table. View the data in the characters and actions table to find the correct id's for the information.
 # Topics of Interest
     Typescript
         I heard Colt Steele's courses are excellent.
