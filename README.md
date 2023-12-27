@@ -23,6 +23,8 @@
     Docker setup - Done
     Learn Bash by Building a Boilerplate - Done
     Learn Relational Databases by Building a Mario Database - Done
+    Learn Bash Scripting by Building Five Programs 
+        Now it's working 😄 Create a QUESTION3 variable next to the other two, set it's value to "What's your favorite coding website?"
 # Topics of Interest
     Typescript
         I heard Colt Steele's courses are excellent.
