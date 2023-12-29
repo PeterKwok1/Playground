@@ -24,7 +24,7 @@
     Learn Bash by Building a Boilerplate - Done
     Learn Relational Databases by Building a Mario Database - Done
     Learn Bash Scripting by Building Five Programs 
-        You played around with a number of the expressions. View the help [[ expression ]] menu again that you looked at before to see a few more options. You can view the menu with just help [[.
+        Using the double square brackets this time, add an elif condition that checks if the number variable is less than or equal to 30. If it is, use your two variables again to print The next number is, I:<number>
 # Topics of Interest
     Typescript
         I heard Colt Steele's courses are excellent.
