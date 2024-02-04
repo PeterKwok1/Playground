@@ -20,11 +20,8 @@
 # Bootstrap
     w3schools - 
 # Freecodecamp Relational Databases
-    Docker setup - Done
-    Learn Bash by Building a Boilerplate - Done
-    Learn Relational Databases by Building a Mario Database - Done
-    Learn Bash Scripting by Building Five Programs 
-        Using the double square brackets this time, add an elif condition that checks if the number variable is less than or equal to 30. If it is, use your two variables again to print The next number is, I:<number>
+    Nano - Done
+    Learn Git by Building an SQL Reference Object ~35%
 # Topics of Interest
     Typescript
         I heard Colt Steele's courses are excellent.
