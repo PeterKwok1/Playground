@@ -21,7 +21,7 @@
     w3schools - 
 # Freecodecamp Relational Databases
     Nano - Done
-    Learn Git by Building an SQL Reference Object ~35%
+    Learn Git by Building an SQL Reference Object - 68%
 # Topics of Interest
     Typescript
         I heard Colt Steele's courses are excellent.
