@@ -2,6 +2,10 @@
     https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting - Done
 # jQuery 
     w3schools - Done 
+# Scss
+    https://sass-lang.com/guide/
+# Bootstrap
+    w3schools - 
 # React
     Setup
         https://www.youtube.com/watch?v=QliwSwWHJoQ
@@ -15,13 +19,10 @@
     etc. youtube freecodecamp redux
 # Babel
     https://www.youtube.com/watch?v=o9hmjdmJLMU
-# Scss
-    https://sass-lang.com/guide/
-# Bootstrap
-    w3schools - 
 # Freecodecamp Relational Databases
     Nano - Done
     Learn Git by Building an SQL Reference Object - Done 
+    Periodic Table Database - 12/30 tests passed 
 # Topics of Interest
     Typescript
         I heard Colt Steele's courses are excellent.
