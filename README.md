@@ -22,7 +22,7 @@
 # Freecodecamp Relational Databases
     Nano - Done
     Learn Git by Building an SQL Reference Object - Done 
-    Periodic Table Database - 23/30 tests passed 
+    Periodic Table Database - 26/30 tests passed 
 # Topics of Interest
     Typescript
         I heard Colt Steele's courses are excellent.
