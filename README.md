@@ -19,10 +19,11 @@
     etc. youtube freecodecamp redux
 # Babel
     https://www.youtube.com/watch?v=o9hmjdmJLMU
-# Freecodecamp Relational Databases
+# Freecodecamp Relational Databases - Done
     Nano - Done
     Learn Git by Building an SQL Reference Object - Done 
-    Periodic Table Database - 26/30 tests passed 
+# Freecodecamp Back End Development and APIs Certification
+    Basic Node and Express - 1/12
 # Topics of Interest
     Typescript
         I heard Colt Steele's courses are excellent.
