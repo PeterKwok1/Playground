@@ -24,6 +24,7 @@
     Learn Git by Building an SQL Reference Object - Done 
 # Freecodecamp Back End Development and APIs Certification
     Basic Node and Express - 1/12
+        Transitioning from replit to gitpod, gitpod not working, may try local express server
 # Topics of Interest
     Typescript
         I heard Colt Steele's courses are excellent.
