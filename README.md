@@ -23,8 +23,7 @@
     Nano - Done
     Learn Git by Building an SQL Reference Object - Done 
 # Freecodecamp Back End Development and APIs Certification
-    Basic Node and Express - 1/12
-        Transitioning from replit to gitpod, gitpod not working, may try local express server
+    Basic Node and Express - 8/12
 # Topics of Interest
     Typescript
         I heard Colt Steele's courses are excellent.
