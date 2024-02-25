@@ -26,6 +26,7 @@
     etc. youtube freecodecamp redux
 # Babel
     https://www.youtube.com/watch?v=o9hmjdmJLMU
-# Interest
+
+# Ideas
     Typescript
         I heard Colt Steele's courses are excellent.
