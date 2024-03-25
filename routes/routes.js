@@ -1,6 +1,4 @@
-
-
-module.exports = function (app) {
+export default function routes(app) {
     app.route('/').get((req, res) => {
         res.sendFile(__dirname + '/dist/views/index.html')
     })

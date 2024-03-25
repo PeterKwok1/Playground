@@ -15,8 +15,8 @@
 # Cors
     https://www.youtube.com/watch?v=PNtFSVU-YTI
 # Unit Testing
-    https://www.youtube.com/watch?v=u5cLK1UrFyQ 
-        Up to: https://youtu.be/u5cLK1UrFyQ?t=977 
+    BDD (Behavior Driven Development), Mocha, Chai
+        https://www.youtube.com/watch?v=u5cLK1UrFyQ - Up to: https://youtu.be/u5cLK1UrFyQ?t=2525 
 # Template?
     Pug
 # Authentification
@@ -37,5 +37,9 @@
     etc. youtube freecodecamp redux
 
 # Ideas
+    html-loader, asset modules
+    Code splitting, vendor.js
+        https://www.youtube.com/watch?v=xz5VXLlM9VY
+    Webpack Bundle Analyzer
     Typescript
         I heard Colt Steele's courses are excellent.

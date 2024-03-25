@@ -1,26 +1,32 @@
-const path = require("path")
-const common = require("./webpack.common")
-const { merge } = require("webpack-merge")
-const MiniCssExtractPlugin = require("mini-css-extract-plugin")
-const TerserPlugin = require('terser-webpack-plugin')
+import path from 'path'
+import common from './webpack.common.js'
+import { merge } from 'webpack-merge'
+import HtmlWebpackPlugin from 'html-webpack-plugin'
+import MiniCssExtractPlugin from 'mini-css-extract-plugin'
+import TerserPlugin from 'terser-webpack-plugin'
+import * as url from 'url'
+const __dirname = url.fileURLToPath(new URL('.', import.meta.url))
 
-module.exports = merge(common, {
-    mode: "production",
+export default merge(common, {
+    mode: 'production',
     output: {
-        filename: "[name].[contenthash].bundle.js",
-        path: path.resolve(__dirname, "dist"),
+        filename: '[name].[contenthash].bundle.js',
+        path: path.resolve(__dirname, 'dist'),
         clean: true
     },
     module: {
         rules: [
             {
                 test: /\.scss$/,
-                use: [MiniCssExtractPlugin.loader, "css-loader", "sass-loader"]
+                use: [MiniCssExtractPlugin.loader, 'css-loader', 'sass-loader']
             }
         ]
     },
     plugins: [
-        new MiniCssExtractPlugin({ filename: "[name].[contenthash].css" })
+        new HtmlWebpackPlugin({
+            template: './src/template.html',
+        }),
+        new MiniCssExtractPlugin({ filename: '[name].[contenthash].css' })
     ],
     optimization: {
         minimizer: [new TerserPlugin({

@@ -2,20 +2,24 @@
   "name": "reader",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config webpack.dev.js --open",
     "build": "webpack --config webpack.prod.js",
-    "serve": "node --watch server.js"
+    "serve": "node --watch server.js",
+    "test": "mocha tests"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "chai": "^5.1.0",
     "css-loader": "^6.8.1",
     "html-webpack-plugin": "^5.5.3",
     "mini-css-extract-plugin": "^2.7.6",
+    "mocha": "^10.3.0",
     "sass": "^1.69.4",
     "sass-loader": "^13.3.2",
     "style-loader": "^3.3.3",
@@ -25,6 +29,7 @@
     "webpack-merge": "^5.10.0"
   },
   "dependencies": {
+    "dotenv": "^16.4.5",
     "express": "^4.18.3",
     "jquery": "^3.7.1"
   }

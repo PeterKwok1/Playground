@@ -1,6 +1,6 @@
-const express = require('express')
-// require('dotenv').config()
-const routes = require('./routes.js')
+import express from 'express'
+import 'dotenv/config'
+import routes from './routes/routes.js'
 
 const app = express()
 
