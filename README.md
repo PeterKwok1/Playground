@@ -1,25 +1,24 @@
 # Git 
-    FCC, Learn Git by Building an SQL Reference Object - Done
     https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting - Done 
 # Scss
     https://sass-lang.com/guide/
 # Bootstrap
 # jQuery 
     w3schools - Done 
-# Node and Express
+# Node 
     https://www.w3schools.com/nodejs/
+# Express
     https://expressjs.com/
     https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs
     https://www.youtube.com/watch?v=SccSCuHhOw0
-# Cors
-    https://www.youtube.com/watch?v=PNtFSVU-YTI
-# Unit Testing
-    BDD (Behavior Driven Development), Mocha, Chai
-        https://www.youtube.com/watch?v=u5cLK1UrFyQ - Up to: https://youtu.be/u5cLK1UrFyQ?t=5453 
+# CSE 312
+    https://cse312.com/ 
+    https://youtu.be/z_V0o7LKo-4?list=PLOLBRzMrfILfsGxjFL6EHvAVR97dFjkwm&t=1865
 # Template?
     Pug
 # Authentification
     Passport?
+        https://www.youtube.com/watch?v=F-sFp_AvHc8
     Socket.io?
 # Babel
     https://www.youtube.com/watch?v=o9hmjdmJLMU
@@ -38,3 +37,6 @@
     Webpack Bundle Analyzer
     Typescript
         I heard Colt Steele's courses are excellent.
+
+# Resources
+    ChatGPT
