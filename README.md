@@ -13,7 +13,7 @@
     https://www.youtube.com/watch?v=SccSCuHhOw0
 # CSE 312
     https://cse312.com/ 
-    https://youtu.be/z_V0o7LKo-4?list=PLOLBRzMrfILfsGxjFL6EHvAVR97dFjkwm&t=1865
+    https://youtu.be/HOjOH4BBY8U?list=PLOLBRzMrfILfsGxjFL6EHvAVR97dFjkwm
 # Template?
     Pug
 # Authentification
