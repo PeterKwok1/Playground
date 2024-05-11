@@ -14,6 +14,8 @@
 # CSE 312
     https://cse312.com/ 
     https://youtu.be/HOjOH4BBY8U?list=PLOLBRzMrfILfsGxjFL6EHvAVR97dFjkwm
+# Python
+    FCC, Scientific Computing with Python (Beta), Learn String Manipulation by Building a Cipher, 54
 # Template?
     Pug
 # Authentification
