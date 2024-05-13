@@ -15,7 +15,8 @@
     https://cse312.com/ 
     https://youtu.be/HOjOH4BBY8U?list=PLOLBRzMrfILfsGxjFL6EHvAVR97dFjkwm
 # Python
-    FCC, Scientific Computing with Python (Beta), Learn Lambda Functions by Building and Expense Tracker, 14
+    FCC, Scientific Computing with Python (Beta)
+        Learn Regular Expressions by Building a Password Generator, 44
 # Template?
     Pug
 # Authentification
