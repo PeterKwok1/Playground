@@ -15,7 +15,7 @@
     https://cse312.com/ 
     https://youtu.be/HOjOH4BBY8U?list=PLOLBRzMrfILfsGxjFL6EHvAVR97dFjkwm
 # Python
-    FCC, Scientific Computing with Python (Beta), Learn String Manipulation by Building a Cipher, 54
+    FCC, Scientific Computing with Python (Beta), Learn Lambda Functions by Building and Expense Tracker, 14
 # Template?
     Pug
 # Authentification
