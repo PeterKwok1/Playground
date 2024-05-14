@@ -16,7 +16,8 @@
     https://youtu.be/HOjOH4BBY8U?list=PLOLBRzMrfILfsGxjFL6EHvAVR97dFjkwm
 # Python
     FCC, Scientific Computing with Python (Beta)
-        Learn Regular Expressions by Building a Password Generator, 44
+        Regular Expressions - Done
+        Algorithm Design - 31
 # Template?
     Pug
 # Authentification
