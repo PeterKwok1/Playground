@@ -16,8 +16,8 @@
     https://youtu.be/HOjOH4BBY8U?list=PLOLBRzMrfILfsGxjFL6EHvAVR97dFjkwm
 # Python
     FCC, Scientific Computing with Python (Beta)
-        Regular Expressions - Done
-        Algorithm Design - 31
+        Algorithm Design - Done
+        Recursion - 23
 # Template?
     Pug
 # Authentification
