@@ -18,6 +18,13 @@
     FCC, Scientific Computing with Python (Beta)
         Algorithm Design - Done
         Recursion - 23
+# Ecommerce Project
+    https://www.youtube.com/watch?v=MBfJEUGNNs0 - Paypal
+        Node has fetch now. 
+    https://www.youtube.com/watch?v=NQP89ish9t8 - Domain and hosting 
+    What is email? How to send email from server. 
+        https://www.youtube.com/watch?v=76tKpVbjhu8 
+    https://www.youtube.com/watch?v=y99YgaQjgx4 - Full stack ecommerce tutorial 
 # Template?
     Pug
 # Authentification
