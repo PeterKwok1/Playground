@@ -11,7 +11,7 @@
     https://youtu.be/HOjOH4BBY8U?list=PLOLBRzMrfILfsGxjFL6EHvAVR97dFjkwm
 # Python
     FCC, Scientific Computing with Python (Beta)
-        Classes and Objects - 41
+        Classes and Objects - 61
 # Full Stack Ecommerce - Project
     https://www.youtube.com/watch?v=NQP89ish9t8 - Domain and hosting 
     https://www.youtube.com/watch?v=76tKpVbjhu8 - confirmation email 
