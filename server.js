@@ -6,13 +6,12 @@ import 'dotenv/config'
 export const app = express()
 
 import routes from './routes/routes.js'
-import { threadId } from 'worker_threads'
 
 app.use('/', express.static('dist'))
 app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
 
-routes(app, __dirname)
+routes(app, __dirname) // static files (including index.html) preceed home route.
 
 const listener = app.listen(process.env.PORT || 3000, () => {
     console.log('Your app is listening on port ' + listener.address().port)
