@@ -2,54 +2,31 @@
 
 ## Resources
 - Git 
-    - https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting - Done 
+    - https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting
 - Node 
     - https://www.w3schools.com/nodejs/
 - Express
     - https://expressjs.com/
     - https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs
-    - https://www.youtube.com/watch?v=SccSCuHhOw0
-- Authentification
-    - Passport?
-        - https://www.youtube.com/watch?v=F-sFp_AvHc8
-- Socket.io?
-- Full Stack Ecommerce - Project
-    - Domain and hosting
-        - https://www.youtube.com/watch?v=NQP89ish9t8  
-    - Confirmation email
-        - https://www.youtube.com/watch?v=76tKpVbjhu8 
-    - How email works
-        - https://www.youtube.com/watch?v=x28ciavQ4mI 
-    - Paypal
-        - https://www.youtube.com/watch?v=MBfJEUGNNs0 
-            - Node has fetch now. 
-    - Tutorial
-        - https://www.youtube.com/watch?v=iqrgggs0Qk0 - prisma
-        - https://www.youtube.com/watch?v=5miHyP6lExg - prisma 
-        - https://www.youtube.com/watch?v=y99YgaQjgx4 - mongodb
-        - https://www.youtube.com/watch?v=dTFXufTgfOE - mongodb
-- Postman
-- Typescript
-    - I heard Colt Steele's courses are excellent.
-- Tailwind CSS
-- Prisma 
-- React - Very popular 
-    - History
-        - https://www.youtube.com/watch?v=QliwSwWHJoQ 
+- React 
+    - https://www.youtube.com/watch?v=QliwSwWHJoQ - History
     - Docs
     - https://www.youtube.com/watch?v=h3LpsM42s5o
-    - Crash Course
-        - https://www.youtube.com/watch?v=LDB4uaJ87e0 
-    - FCC
-        - https://www.youtube.com/watch?v=bMknfKXIFA8 
-- Babel
-    - https://www.youtube.com/watch?v=o9hmjdmJLMU
-- Redux
-    - Purpose
-        - https://www.youtube.com/watch?v=czptRA4IeCc 
-    - FCC
-        - https://www.youtube.com/watch?v=2-crBg6wpp0 
-- Next.js
-- GitHub Copilot
-- ChatGPT
+    - https://www.youtube.com/watch?v=LDB4uaJ87e0 - Crash Course
+    - https://www.youtube.com/watch?v=bMknfKXIFA8 - FCC
+- Projects
+    - Full Stack, Ecommerce
+        - https://www.youtube.com/playlist?list=PLeh2GWv22bmSkMEpSv5Wme56XVpKG1Tr5 - mongodb
+        - https://www.youtube.com/watch?v=y99YgaQjgx4 - react, mongodb
+        - https://www.youtube.com/watch?v=dTFXufTgfOE - react, mongodb
 
+## Ideas
+- AI Assistance
+    - GitHub Copilot
+    - Cursor
+- Test
+- Debugger
+- Redux
+    - https://www.youtube.com/watch?v=2-crBg6wpp0 - FCC
+- Typescript
+- Next.js

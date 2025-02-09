@@ -1,5 +1,4 @@
-import * as url from 'url'
-const __dirname = url.fileURLToPath(new URL('.', import.meta.url))
+const __dirname = import.meta.dirname
 import express from 'express'
 import 'dotenv/config'
 
@@ -8,6 +7,8 @@ export const app = express()
 import routes from './routes/routes.js'
 
 app.use('/', express.static('dist'))
+app.use('/public', express.static('public'))
+
 app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
 
